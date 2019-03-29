@@ -1,0 +1,4 @@
+# Ignore .ds_store
+.ds_store
+# Ignore reference folder
+/references/*
